@@ -1,0 +1,5 @@
+# Introduction {.unnumbered}
+
+This is a quarto book template made for notetaking during conferences and events.
+
+This intro page can be used to call out dates, location information, key attendees, or could be rewritten to contain your **conference plan** and links to things like conf apps and schedules.

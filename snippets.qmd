@@ -1,0 +1,5 @@
+# Snippets
+
+::: callout-note
+## Use the snippets file for bits of code, URLs, things to look up, and other stuff to perhaps reference later (such as funny gifs).
+:::

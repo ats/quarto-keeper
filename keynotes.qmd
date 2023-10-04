@@ -1,0 +1,12 @@
+# Keynotes
+
+## Title 1 -- Update this!
+
+-   Capture notes!
+-   Capture screenshots! The Quarto visual editor in RStudio is great for this!
+
+::: callout-note
+## Use callouts to help draw attention back to things that are important or have strong impact on you.
+:::
+
+## Title 2

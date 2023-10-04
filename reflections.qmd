@@ -1,0 +1,5 @@
+# Reflections
+
+::: callout-note
+## This file is for personal takeaways, followups, and things to think more about.
+:::

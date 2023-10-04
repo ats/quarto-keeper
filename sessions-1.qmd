@@ -1,0 +1,33 @@
+# Conf. Sessions
+
+Now this is conferencing!
+
+## Title / Time Slot 1
+
+### Keep notes at whatever level of granularity you like
+
+## Title / Time Slot 2
+
+```{r}
+# You can put code right in the notebook, too!
+#| echo: true
+
+
+library(ggplot2)
+ggplot(mpg, aes(x = hwy, y = cty, color = cyl)) +
+  geom_point(alpha = 0.5, size = 2) +
+  scale_color_viridis_c() +
+  theme_minimal()
+
+```
+
+## Title / Time Slot 3
+
+```{python}
+# python code, too!
+a = 1
+b = 2
+a + b
+```
+
+## 

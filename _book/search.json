@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_keeper",
+    "section": "",
+    "text": "Introduction\nThis is a quarto book template made for notetaking during conferences and events.\nThis intro page can be used to call out dates, location information, key attendees, or could be rewritten to contain your conference plan and links to things like conf apps and schedules."
+  },
+  {
+    "objectID": "keynotes.html#title-1-update-this",
+    "href": "keynotes.html#title-1-update-this",
+    "title": "1  Keynotes",
+    "section": "1.1 Title 1 – Update this!",
+    "text": "1.1 Title 1 – Update this!\n\nCapture notes!\nCapture screenshots! The Quarto visual editor in RStudio is great for this!\n\n\n\n\n\n\n\nUse callouts to help draw attention back to things that are important or have strong impact on you."
+  },
+  {
+    "objectID": "keynotes.html#title-2",
+    "href": "keynotes.html#title-2",
+    "title": "1  Keynotes",
+    "section": "1.2 Title 2",
+    "text": "1.2 Title 2"
+  },
+  {
+    "objectID": "sessions-1.html#title-time-slot-1",
+    "href": "sessions-1.html#title-time-slot-1",
+    "title": "2  Conf. Sessions",
+    "section": "2.1 Title / Time Slot 1",
+    "text": "2.1 Title / Time Slot 1\n\n2.1.1 Keep notes at whatever level of granularity you like"
+  },
+  {
+    "objectID": "sessions-1.html#title-time-slot-2",
+    "href": "sessions-1.html#title-time-slot-2",
+    "title": "2  Conf. Sessions",
+    "section": "2.2 Title / Time Slot 2",
+    "text": "2.2 Title / Time Slot 2\n\n# You can put code right in the notebook, too!\n#| echo: true\n\n\nlibrary(ggplot2)\nggplot(mpg, aes(x = hwy, y = cty, color = cyl)) +\n  geom_point(alpha = 0.5, size = 2) +\n  scale_color_viridis_c() +\n  theme_minimal()"
+  },
+  {
+    "objectID": "sessions-1.html#title-time-slot-3",
+    "href": "sessions-1.html#title-time-slot-3",
+    "title": "2  Conf. Sessions",
+    "section": "2.3 Title / Time Slot 3",
+    "text": "2.3 Title / Time Slot 3\n\n# python code, too!\na = 1\nb = 2\na + b\n\n3"
+  },
+  {
+    "objectID": "sessions-1.html#section",
+    "href": "sessions-1.html#section",
+    "title": "2  Conf. Sessions",
+    "section": "2.4 ",
+    "text": "2.4"
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "3  Reflections",
+    "section": "",
+    "text": "This file is for personal takeaways, followups, and things to think more about."
+  },
+  {
+    "objectID": "snippets.html",
+    "href": "snippets.html",
+    "title": "4  Snippets",
+    "section": "",
+    "text": "Use the snippets file for bits of code, URLs, things to look up, and other stuff to perhaps reference later (such as funny gifs)."
+  }
+]

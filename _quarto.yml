@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "quarto_keeper"
+  author: ""
+  date: ""
+  chapters:
+    - index.qmd
+    - keynotes.qmd
+    - sessions-1.qmd
+# vvv uncomment or add files for additional days, events, or sessions: vvv
+#    - author-session.qmd
+#    - sessions-2.qmd
+#    - sessions-3.qmd
+    - reflections.qmd
+    - snippets.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
